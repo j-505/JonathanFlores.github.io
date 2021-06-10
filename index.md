@@ -2,6 +2,19 @@
 
 ### Five Degree of Freedom Robot Arm
 
+```markdown
+# Design
+The solidworks files were taken from thingiverse.
+The link to the thingiverse CAD files is:
+https://www.thingiverse.com/make:702244
+
+![GitHub Logo](/images/RA1.jpg)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/images/RA2.jpg)
+Format: ![Alt Text](url)
+
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
