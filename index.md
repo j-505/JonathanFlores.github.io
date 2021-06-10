@@ -48,7 +48,7 @@ Modifying the code to have different use cases in the loops
 
 
 
-## 1. Quadruped Robot
+## 2. Quadruped Robot
 
 <p align="center" >
 <img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/1.png" width="300"> 
