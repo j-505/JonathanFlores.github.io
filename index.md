@@ -10,9 +10,9 @@ https://www.thingiverse.com/make:702244
 
 ```markdown
 
-![Image of Robot](https://JonathanFlores.github.com/images/RA1.jpg)
+![Image of Robot](https://JonathanFlores.github.io/images/RA1.jpg)
 
-![Image of Robot with Fishy](https://JonathanFlores.github.com/images/RA2.jpg)
+![Image of Robot with Fishy](https://JonathanFlores.github.io/images/RA2.jpg)
 
 
 ```
