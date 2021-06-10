@@ -9,11 +9,11 @@ The link to the thingiverse CAD files is:
 https://www.thingiverse.com/make:702244
 
 ```markdown
-![GitHub Logo](/images/RA1.jpg)
-Format: ![Alt Text](url)
 
-![GitHub Logo](/images/RA2.jpg)
-Format: ![Alt Text](url)
+![Image of Robot](https://JonathanFlores.github.com/images/RA1.jpg)
+
+![Image of Robot with Fishy](https://JonathanFlores.github.com/images/RA2.jpg)
+
 
 ```
 
