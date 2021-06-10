@@ -67,6 +67,7 @@ Boston Dynamics spot robot.
 ### To Do
 1. Design solidworks model.
 2. 3D print and Assemble Parts.
+3. Create an application on MIT App Inventor.
 4. Create and upload Arduino sketch to Robot.
 
 ### Design
