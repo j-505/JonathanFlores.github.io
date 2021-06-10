@@ -1,13 +1,18 @@
 ## Welcome to Jonathan's Website
 
 ### Five Degree of Freedom Robot Arm
-![Image of Robot](https://user-images.githubusercontent.com/54735464/121494705-d40b1580-c98d-11eb-98b2-e2fa5395a0e8.jpg  "100")
-```markdown
+
+
+<img src="https://user-images.githubusercontent.com/54735464/121494705-d40b1580-c98d-11eb-98b2-e2fa5395a0e8.jpg" width="100">  <img src="https://user-images.githubusercontent.com/54735464/121500655-5cd88000-c993-11eb-9beb-002bf45ec35c.jpg" width="100">
+
+
+
+
 # Design
 The solidworks files were taken from thingiverse.
 The link to the thingiverse CAD files is:
 https://www.thingiverse.com/make:702244
-![Image of Robot](/images/RA1.jpg)
+
 
 ```markdown
 
