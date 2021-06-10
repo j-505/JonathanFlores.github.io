@@ -46,5 +46,5 @@ Modifying the code to have different use cases in the loops
 
 ### Contact Info
 
-Linkedin
-
+[Linkedin](https://www.linkedin.com/in/johnflores01/)
+Email: Jonathan.Flores.1962@gmail.com
