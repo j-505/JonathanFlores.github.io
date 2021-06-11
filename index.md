@@ -1,5 +1,20 @@
 # Welcome to Jonathan's Website
 
+Hello! Welcome to my personal page!
+I'm an incoming 4th year mechanical engineering student
+with a focus on hardware and robotics engineering
+at California State University, Los angeles.
+This is where I will be uploading some of the projects
+I have been working on. I'm looking forward to growing
+my design and programming skills to build huge meaningful
+projects. 
+
+If you have any questions, feel free to contact me.
+My contact information is on the bottom of the page.
+
+I hope you like some of the projects I have below! Enjoy!
+
+
 ## 1. Five Degree of Freedom Robot Arm (ROS)
 
 <p align="center" >
