@@ -15,13 +15,13 @@
 ### Design
 
 Hardware:
-..* x5 - MG90 Servo Motor (And attachments)
-..* x1 - Breadboard
-..* x1 - Arduino board connector
-..* x1 - Arduino Uno  
-..* x20 - Jumper Cables   
-..* Access to 3D printer/ Filament     
-..* Acess to Computer
+1. x5 - MG90 Servo Motor (And attachments)
+2. x1 - Breadboard
+3. x1 - Arduino board connector
+4. x1 - Arduino Uno  
+5. x20 - Jumper Cables   
+6. Access to 3D printer/ Filament     
+7. Acess to Computer
 
 ```markdown
 The solidworks files were taken from thingiverse.
@@ -73,15 +73,16 @@ controlling a servo motor arm using ROS and decided that it
 would be pretty neat if I could create a robotic dog like the
 Boston Dynamics spot robot.
 
+
 Hardware:
-..* x5 - SG90 Servo motor (and attachments)
-..* x25 - Jumper Cables
-..* x1 - Arduino Uno
-..* x1 - L298N Motor Driver
-..* x1 - 9V Battery
-..* x1 - Breadboard
-..* Access to 3D printer/ Filament     
-..* Acess to Computer
+1. x5 - SG90 Servo motor (and attachments)
+2. x25 - Jumper Cables
+3. x1 - Arduino Uno
+4. x1 - L298N Motor Driver
+5. x1 - 9V Battery
+6. x1 - Breadboard
+7. Access to 3D printer/ Filament     
+8. Acess to Computer
 
 ### To Do
 1. Design solidworks model.
