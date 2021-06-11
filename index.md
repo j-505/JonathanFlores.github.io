@@ -6,14 +6,6 @@
 <img src="https://user-images.githubusercontent.com/54735464/121494705-d40b1580-c98d-11eb-98b2-e2fa5395a0e8.jpg" width="200">  <img src="https://user-images.githubusercontent.com/54735464/121500655-5cd88000-c993-11eb-9beb-002bf45ec35c.jpg" width="200">
 </p>
 
-### To Do
-1. Get CAD design files for 5DOF robot.
-2. 3D print and Assemble Parts.
-3. Download ROS melodic on Linux VM.
-4. Create and upload Arduino sketch to Robot.
-
-### Design
-
 Hardware:
 1. x5 - MG90 Servo Motor (And attachments)
 2. x1 - Breadboard
@@ -22,6 +14,14 @@ Hardware:
 5. x20 - Jumper Cables   
 6. Access to 3D printer/ Filament     
 7. Acess to Computer
+
+### To Do
+1. Get CAD design files for 5DOF robot.
+2. 3D print and Assemble Parts.
+3. Download ROS melodic on Linux VM.
+4. Create and upload Arduino sketch to Robot.
+
+### Design
 
 ```markdown
 The solidworks files were taken from thingiverse.
