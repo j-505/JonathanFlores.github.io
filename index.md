@@ -196,7 +196,7 @@ In Progress...
 
 ```markdown
 I have 3D printed the design for the robot and I've
-noticed that it might be really heavy. So I will be redesigning the 
+noticed that the legs are really heavy. So I will be redesigning the 
 project to take off the weight. The servo's can probably handle the 
 weight but I don't want to risk them overheating and getting damaged.
 They were around $18 each! >.<
