@@ -41,7 +41,7 @@ I had to print them again and remove the filling.
 I've written code for arduino robots that allowed me to 
  control individual sg90 servo motors and dc motors using
  the H-bridge motor driver. 
-This was a bit more challenging because the syntax changes
+This was a bit more challenging because the layout changes
  when using ROS. Addressing the arduino and servo motors are
  iterpretted in terms of subscribing and publishing to topics
  and nodes. The serial node (ROS node for arduino interfacing)
