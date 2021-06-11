@@ -170,7 +170,7 @@ I'll keep updating this page.
 ## 3. Quadruped Dog Robot
 
 <p align="center" >
-<img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/DogPic.png" width="400"> 
+<img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="400"> 
 </p>
 
 This project is still in progress and I will be sharing 
