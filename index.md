@@ -51,11 +51,11 @@ So here is the <a href="./images/GearboxReport.pdf">downloadable report</a> for 
 
 The time performances of the gearbox with a gear ratio of 15.2 was higher than 
 determined from the calculations. The team suspected this was caused by an 
-irregularity, where the teeth of the gears didnot fully mesh together. 
+irregularity, where the teeth of the gears did not fully mesh together. 
 Possible reasons arethe calibration of the laser cutting machine and the 
-number of cutting cycles applied to the acrylic glassthat would deform 
+number of cutting cycles applied to the acrylic glass that would deform 
 its shape. Overall, the team was satisfied with the final test performance 
-time of 5.66 seconds
+time of 5.66 seconds.
 
 
 
