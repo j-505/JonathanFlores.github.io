@@ -1,6 +1,6 @@
 # Welcome to Jonathan's Website
 
-## 1. Five Degree of Freedom Robot Arm (Using ROS)
+## 1. Five Degree of Freedom Robot Arm (ROS)
 
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/54735464/121494705-d40b1580-c98d-11eb-98b2-e2fa5395a0e8.jpg" width="200">  <img src="https://user-images.githubusercontent.com/54735464/121500655-5cd88000-c993-11eb-9beb-002bf45ec35c.jpg" width="200">
@@ -15,13 +15,13 @@
 ### Design
 
 Hardware:
-5x - MG90 Servo Motor (And attachments)
-1x - Breadboard
-1x - Arduino board connector
-1x - Arduino Uno
-20x - Jumper Cables
-Access to 3D printer/ Filament
-Acess to Computer
+..* x5 - MG90 Servo Motor (And attachments)
+..* x1 - Breadboard
+..* x1 - Arduino board connector
+..* x1 - Arduino Uno  
+..* x20 - Jumper Cables   
+..* Access to 3D printer/ Filament     
+..* Acess to Computer
 
 ```markdown
 The solidworks files were taken from thingiverse.
@@ -74,13 +74,14 @@ would be pretty neat if I could create a robotic dog like the
 Boston Dynamics spot robot.
 
 Hardware:
-5 - SG90 Servo motor (and attachments)
-25 - Jumper Cables
-1 - Arduino Uno
-1 - L298N Motor Driver
-1 - 9V Battery
-1 - Breadboard
-
+..* x5 - SG90 Servo motor (and attachments)
+..* x25 - Jumper Cables
+..* x1 - Arduino Uno
+..* x1 - L298N Motor Driver
+..* x1 - 9V Battery
+..* x1 - Breadboard
+..* Access to 3D printer/ Filament     
+..* Acess to Computer
 
 ### To Do
 1. Design solidworks model.
