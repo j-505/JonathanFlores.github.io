@@ -7,13 +7,15 @@
 </p>
 
 Hardware:
-1. x5 - MG90 Servo Motor (And attachments)
-2. x1 - Breadboard
-3. x1 - Arduino board connector
-4. x1 - Arduino Uno  
-5. x20 - Jumper Cables   
-6. Access to 3D printer/ Filament     
-7. Acess to Computer
+<ul>
+<li>x5 - MG90 Servo Motor (And attachments)</li>
+<li>x1 - Breadboard</li>
+<li>x1 - Arduino board connector</li>
+<li>x1 - Arduino Uno  </li>
+<li>x20 - Jumper Cables </li>  
+<li>Access to 3D printer/ Filament </li>    
+<li>Acess to Computer</li>
+</ul>
 
 ### To Do
 1. Get CAD design files for 5DOF robot.
@@ -75,14 +77,16 @@ Boston Dynamics spot robot.
 
 
 Hardware:
-1. x5 - SG90 Servo motor (and attachments)
-2. x25 - Jumper Cables
-3. x1 - Arduino Uno
-4. x1 - L298N Motor Driver
-5. x1 - 9V Battery
-6. x1 - Breadboard
-7. Access to 3D printer/ Filament     
-8. Acess to Computer
+<ul>
+<li>x5 - SG90 Servo motor (and attachments)</li>
+<li>x25 - Jumper Cables</li>
+<li>x1 - Arduino Uno</li>
+<li>x1 - L298N Motor Driver</li>
+<li>x1 - 9V Battery</li>
+<li>x1 - Breadboard</li>
+<li>Access to 3D printer/ Filament  </li>
+<li> Acess to Computer</li>
+</ul>
 
 ### To Do
 1. Design solidworks model.
