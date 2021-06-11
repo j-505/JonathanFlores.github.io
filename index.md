@@ -1,6 +1,7 @@
 # Welcome to Jonathan's Website
 
-Hello! Welcome to my personal page!
+Hello, I'm Jonathan Flores.
+Welcome to my personal page!
 I'm an incoming 4th year mechanical engineering student
 with a focus on hardware and robotics engineering
 at California State University, Los angeles.
