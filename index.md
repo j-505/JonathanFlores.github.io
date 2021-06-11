@@ -38,7 +38,7 @@ in a gearbox system.
 I think it would take some time to go through the whole project on this page.
 So here is the <a href="./images/GearboxReport.pdf">downloadable report</a> for the project.
 <p align="center" >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox3.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/54735464/121646354-1560fb00-ca4a-11eb-96c4-90c2fb46d262.jpg" width="300">
 </p>
 
 
@@ -46,7 +46,7 @@ So here is the <a href="./images/GearboxReport.pdf">downloadable report</a> for 
 ### Conclusion
 
 <p align="center" >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox2.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/54735464/121646336-1134dd80-ca4a-11eb-9711-3c1656dbe8c4.jpg" width="300">
 </p>
 
 The time performances of the gearbox with a gear ratio of 15.2 was higher than 
