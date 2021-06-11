@@ -23,7 +23,7 @@ I hope you like some of the projects I have below! Enjoy!
 ## 1. Gearbox Design Competition (1st Place)
 
 <p align="center" >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox1.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/54735464/121645957-a4214800-ca49-11eb-9b8d-0abf2e0ba9c1.jpg" width="300">
 </p>
 
 ### Objective
