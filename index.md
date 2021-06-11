@@ -18,7 +18,51 @@ I hope you like some of the projects I have below! Enjoy!
 
 
 # Project:
-## 1. Five Degree of Freedom Robot Arm (ROS)
+
+
+## 1. Gearbox Design Competition (1st Place)
+
+<p align="center" >
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox1.png" width="300">
+</p>
+
+### Objective
+The purpose of this report is to manufacture an efficient gearbox that improves on 
+the characteristic of insufficient power corresponding to the torque and velocity of 
+the source. In accordance to the design process in mechanical design, this project
+undertakes multiple phases that correspond to the motion and power transmission 
+in a gearbox system.
+
+### Design Report
+
+I think it would take some time to go through the whole project on this page.
+So here is the <a href="./images/GearboxReport.pdf">downloadable report</a> for the project.
+<p align="center" >
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox3.png" width="300">
+</p>
+
+
+
+### Conclusion
+
+<p align="center" >
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox2.png" width="300">
+</p>
+
+The time performances of the gearbox with a gear ratio of 15.2 was higher than 
+determined from the calculations. The team suspected this was caused by an 
+irregularity, where the teeth of the gears didnot fully mesh together. 
+Possible reasons arethe calibration of the laser cutting machine and the 
+number of cutting cycles applied to the acrylic glassthat would deform 
+its shape. Overall, the team was satisfied with the final test performance 
+time of 5.66 seconds
+
+
+
+
+
+
+## 2. Five Degree of Freedom Robot Arm (ROS)
 
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/54735464/121494705-d40b1580-c98d-11eb-98b2-e2fa5395a0e8.jpg" width="200">  <img src="https://user-images.githubusercontent.com/54735464/121500655-5cd88000-c993-11eb-9beb-002bf45ec35c.jpg" width="200">
@@ -35,7 +79,7 @@ Hardware:
 <li>Acess to Computer</li>
 </ul>
 
-### To Do
+### Objectives
 1. Get CAD design files for 5DOF robot.
 2. 3D print and Assemble Parts.
 3. Download ROS melodic on Linux VM.
@@ -77,7 +121,7 @@ Modifying the code to have different use cases in the loops
 
 
 
-## 2. Quadruped Robot
+## 3. Quadruped Robot
 
 <p align="center" >
 <img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/1.png" width="300"> 
@@ -106,7 +150,7 @@ Hardware:
 <li> Acess to Computer</li>
 </ul>
 
-### To Do
+### Objectives
 1. Design solidworks model.
 2. 3D print and Assemble Parts.
 3. Create an application on MIT App Inventor.
@@ -168,7 +212,7 @@ I'll keep updating this page.
 ```
 
 
-## 3. Quadruped Dog Robot
+## 4. Quadruped Dog Robot
 
 <p align="center" >
 <img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="400"> 
@@ -189,7 +233,7 @@ Hardware:
 <li>Acess to Computer</li>
 </ul>
 
-### To Do
+### Objectives
 
 In Progress...
 
