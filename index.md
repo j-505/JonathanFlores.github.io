@@ -231,4 +231,4 @@ See you soon!
 ### Contact Info
 
 [Linkedin](https://www.linkedin.com/in/johnflores01/) |
-Email: Jonathan.Flores.1962@gmail.com
+Email: Jflor288@calstatela.edu
