@@ -16,7 +16,7 @@ I hope you like some of the projects I have below! Enjoy!
 
 
 
-### Project:
+# Project:
 ## 1. Five Degree of Freedom Robot Arm (ROS)
 
 <p align="center" >
@@ -145,7 +145,7 @@ that I needed to create an application on a phone that would
 move my robot.
 ```
 <p align="center" >
-<img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/2.png" width="200">  <img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/3.png" width="200">
+<img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/2.png" width="300">  <img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/3.png" width="300">
 </p>
 
 ```markdown
@@ -165,6 +165,66 @@ The Code for this project is on my github.
 I am currently working on a better version of this using 12 servo motors
 I'll keep updating this page.
 ```
+
+
+## 3. Quadruped Dog Robot
+
+<p align="center" >
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/DogPic.png" width="500"> 
+</p>
+
+This project is still in progress and I will be sharing 
+different iterations of the designs, simulations and code.
+
+Hardware:
+(P.S.A: This is not all the components needed!)
+<ul>
+<li>x12 - 20KGcm Digital Servo (And attachments)</li>
+<li>x1 - Breadboard</li>
+<li>x1 - Arduino board connector</li>
+<li>x1 - Arduino Uno  </li>
+<li>? - Jumper Cables </li>  
+<li>Access to 3D printer/ Filament </li>    
+<li>Acess to Computer</li>
+</ul>
+
+### To Do
+
+In Progress...
+
+### Design
+
+```markdown
+I have 3D printed the design for the robot and I've
+noticed that it might be really heavy. So I will be redesigning the 
+project to take off the weight. The servo's can probably handle the 
+weight but I don't want to risk them overheating and getting damaged.
+They were around $18 each! >.<
+
+I'll update the page once I have everything sorted.
+```
+### Programming/Testing
+
+<p align="center" >
+<img src="https://user-images.githubusercontent.com/54735464/121630450-079f7b80-ca32-11eb-8644-c9f932d7f805.png" width="450"> 
+</p>
+
+```markdown
+I went ahead and attempted to create the urdf for the robot so that
+I can test it in a simulated environment. I need to do more research 
+so that the meshes and origin positions are correctly imported onto
+Rviz.
+
+Again, I'll update the page once I have everything sorted.
+
+See you soon!
+```
+
+
+
+
+
+
 
 
 ### Contact Info
