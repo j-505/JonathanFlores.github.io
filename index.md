@@ -23,7 +23,7 @@ I hope you like some of the projects I have below! Enjoy!
 ## 1. Gearbox Design Competition (1st Place)
 
 <p align="center" >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox1.png" width="300">
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox1.jpg" width="300">
 </p>
 
 ### Objective
@@ -38,7 +38,7 @@ in a gearbox system.
 I think it would take some time to go through the whole project on this page.
 So here is the <a href="./images/GearboxReport.pdf">downloadable report</a> for the project.
 <p align="center" >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox3.png" width="300">
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox3.jpg" width="300">
 </p>
 
 
@@ -46,7 +46,7 @@ So here is the <a href="./images/GearboxReport.pdf">downloadable report</a> for 
 ### Conclusion
 
 <p align="center" >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox2.png" width="300">
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Gearbox2.jpg" width="300">
 </p>
 
 The time performances of the gearbox with a gear ratio of 15.2 was higher than 
