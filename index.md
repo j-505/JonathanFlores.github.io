@@ -273,9 +273,9 @@ See you soon!
 
 
 
-
-
-
+## Licenses & Certifications
+Certificate of Completion: Learning C++
+Certificate of Complettion: Introduction to Mill and Lathe Operation
 
 ### Contact Info
 
