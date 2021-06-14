@@ -273,6 +273,11 @@ See you soon!
 
 
 
+
+
+
+
+
 ## Licenses & Certifications
 <ul>
 <li><a href="./images/CertificateOfCompletion_Learning C.pdf">Certificate of Completion: Learning C++</a></li>
