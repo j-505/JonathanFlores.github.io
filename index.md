@@ -274,8 +274,10 @@ See you soon!
 
 
 ## Licenses & Certifications
-Certificate of Completion: Learning C++
-Certificate of Complettion: Introduction to Mill and Lathe Operation
+<ul>
+<li><a href="./images/CertificateOfCompletion_Learning C.pdf">Certificate of Completion: Learning C++</a></li>
+<li> <a href="./images/CertificateOfCompletion_Introduction to Mill and Lathe Operation(1).pdf">Certificate of Completion: Introduction to Mill and Lathe Operation</a></li>
+</ul>
 
 ### Contact Info
 
