@@ -17,7 +17,7 @@ I hope you like some of the projects I have below! Enjoy!
 
 
 
-# Project:
+# Projects:
 
 
 ## 1. Gearbox Design Competition (1st Place)
@@ -261,14 +261,31 @@ I'll update the page once I have everything sorted.
 
 ```markdown
 I went ahead and attempted to create the urdf for the robot so that
-I can test it in a simulated environment. I need to do more research 
-so that the meshes and origin positions are correctly imported onto
-Rviz.
+I can test it in a simulated environment called Rviz. I need to do
+more research so that the meshes and origin positions are correctly 
+imported onto Rviz.
 
+<p align="center" >
+<img src="https://user-images.githubusercontent.com/54735464/121630450-079f7b80-ca32-11eb-8644-c9f932d7f805.png" width="400"> 
+</p>
 Again, I'll update the page once I have everything sorted.
 
 See you soon!
 ```
+
+
+# Skills
+
+## FEA - Finite Element Analysis
+
+### Conrod Static Analysis
+Mesh Curvature.png
+
+<p align="center" >
+<img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/Mesh%20Curvature.png" width="400"> 
+</p>
+
+This was part of the certification I obtained for Solidworks: FEA.
 
 
 
