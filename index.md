@@ -292,7 +292,7 @@ This was part of the certification I obtained for Solidworks: FEA.
 
 
 <p >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/COMPARE.jpg" width="400"> 
+<img src="https://user-images.githubusercontent.com/54735464/122262904-bc9ac380-ce8a-11eb-81e3-44f8572e2967.jpg" width="400"> 
 </p>
  The next image above demonstrates a comparison of the different load analysis created. Here, the compressive and tensile loads are compared
   using the load case manager feature. The inertial load calculations can be seen using the "result force" tab. This will allow us to check 
@@ -300,7 +300,7 @@ This was part of the certification I obtained for Solidworks: FEA.
   
 
 <p >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/2Stresses.jpg" width="400"> 
+<img src="https://user-images.githubusercontent.com/54735464/122263073-e2c06380-ce8a-11eb-86b5-0a1dcebc5b17.jpg" width="400"> 
 </p>
  This last image demonstrates how to probe an individual section of the part to check the stress variation running along that section.
  This is important for the conrod static analysis because it helps us identify where the key stresses will be.
