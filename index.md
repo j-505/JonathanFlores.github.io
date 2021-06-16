@@ -265,9 +265,7 @@ I can test it in a simulated environment called Rviz. I need to do
 more research so that the meshes and origin positions are correctly 
 imported onto Rviz.
 
-<p align="center" >
-<img src="https://user-images.githubusercontent.com/54735464/121630450-079f7b80-ca32-11eb-8644-c9f932d7f805.png" width="400"> 
-</p>
+
 Again, I'll update the page once I have everything sorted.
 
 See you soon!
