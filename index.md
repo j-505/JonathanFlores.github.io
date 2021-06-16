@@ -291,7 +291,7 @@ This was part of the certification I obtained for Solidworks: FEA.
   mesh type as seen in the image above.
 
 
-<p >
+<p align = "center">
 <img src="https://user-images.githubusercontent.com/54735464/122262904-bc9ac380-ce8a-11eb-81e3-44f8572e2967.jpg" width="400"> 
 </p>
  The next image above demonstrates a comparison of the different load analysis created. Here, the compressive and tensile loads are compared
@@ -299,7 +299,7 @@ This was part of the certification I obtained for Solidworks: FEA.
   whether or not the reaction forces are equal to the loads applied for both cases.
   
 
-<p >
+<p align = "center">
 <img src="https://user-images.githubusercontent.com/54735464/122263073-e2c06380-ce8a-11eb-86b5-0a1dcebc5b17.jpg" width="400"> 
 </p>
  This last image demonstrates how to probe an individual section of the part to check the stress variation running along that section.
