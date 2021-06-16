@@ -1,2 +1,2 @@
 # JonathanFlores.github.io
-This page will be dedicated to my projects.
+This page will be dedicated to my projects and skills.
