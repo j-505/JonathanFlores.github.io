@@ -286,7 +286,7 @@ This was part of the certification I obtained for Solidworks: FEA.
 </p>
  
  This analysis helped me prepare the geometry for a connecting rod that is part of a piston engine which connects the piston to the crankshaft.
-  Once the geometry is established the element type and material properties have to be established. The meshing is probably the most important 
+  Once the geometry is established the element type and material properties have to be established. The meshing can be created. The meshing is probably the most important 
   part of the analysis. Meshing allows us to create a mesh of grid points or "nodes" and the finite element mesh is generated using a tetrahedral
   mesh type as seen in the image above.
 
