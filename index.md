@@ -302,10 +302,10 @@ This was part of the certification I obtained for Solidworks: FEA.
 <p >
 <img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/stresses.pdf" width="400"> 
 </p>
- This last images demonstrate how to probe an individual section of the part to check the stress variation running along that section.
- This conrod static analysis helps us identify where the key stresses will be.
+ This last image demonstrates how to probe an individual section of the part to check the stress variation running along that section.
+ This is important for the conrod static analysis because it helps us identify where the key stresses will be.
 
- In conclusion, we checked out the individual loading components that we are going to apply in the final production of the analysis.
+ In conclusion, we checked out the individual loading components that we are going to apply in the final production analysis.
 
 
 
