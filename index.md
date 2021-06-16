@@ -279,16 +279,33 @@ See you soon!
 ## FEA - Finite Element Analysis
 
 ### Conrod Static Analysis
-Mesh Curvature.png
-
-<p align="center" >
-<img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/Mesh%20Curvature.png" width="400"> 
-</p>
-
 This was part of the certification I obtained for Solidworks: FEA.
 
+<p align="center" >
+<img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/Titlepic.jpg.png" width="400"> 
+</p>
+ 
+ This analysis helped me prepare the geometry for a connecting rod that is part of a piston engine which connects the piston to the crankshaft.
+  Once the geometry is established the element type and material properties have to be established. The meshing is probably the most important 
+  part of the analysis. Meshing allows us to create a mesh of grid points or "nodes" and the finite element mesh is generated using a tetrahedral
+  mesh type as seen in the image above.
 
 
+<p >
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/CompareTvsC.png" width="400"> 
+</p>
+ The next image above demonstrates a comparison of the different load analysis created. Here, the compressive and tensile loads are compared
+  using the load case manager feature. The inertial load calculations can be seen using the "result force" tab. This will allow us to check 
+  whether or not the reaction forces are equal to the loads applied for both cases.
+  
+
+<p >
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Stresses.png" width="400"> 
+</p>
+ This last images demonstrate how to probe an individual section of the part to check the stress variation running along that section.
+ This conrod static analysis helps us identify where the key stresses will be.
+
+ In conclusion, we checked out the individual loading components that we are going to apply in the final production of the analysis.
 
 
 
