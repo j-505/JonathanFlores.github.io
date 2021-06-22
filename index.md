@@ -261,8 +261,8 @@ I'll update the page once I have everything sorted.
 
 
 <p align = "center">
-  <img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Test%20Set%20Pic.png" width="200" />
-  <img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/TestPic.jpg" width="160" /> 
+  <img src="https://user-images.githubusercontent.com/54735464/122987660-b064a980-d355-11eb-9ae5-6acf61064735.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/54735464/122987714-c1adb600-d355-11eb-8577-d53a93b96b55.jpg" width="160" /> 
 
 </p>
 
