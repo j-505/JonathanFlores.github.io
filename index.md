@@ -259,6 +259,13 @@ I'll update the page once I have everything sorted.
 <img src="https://user-images.githubusercontent.com/54735464/121630450-079f7b80-ca32-11eb-8644-c9f932d7f805.png" width="400"> 
 </p>
 
+
+<p align = "center">
+  <img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Test%20Set%20Pic.png" width="200" />
+  <img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/TestPic.jpg" width="160" /> 
+
+</p>
+
 ```markdown
 I went ahead and attempted to create the urdf for the robot so that
 I can test it in a simulated environment called Rviz. I need to do
@@ -266,9 +273,12 @@ more research so that the meshes and origin positions are correctly
 imported onto Rviz.
 
 
-Again, I'll update the page once I have everything sorted.
+Testing
 
-See you soon!
+I'm finishing up designing the test rig so that I'm able to test the legs movement.
+I plan on creating a bezier curve at the legs end effector.
+
+
 ```
 
 
