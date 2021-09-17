@@ -315,6 +315,8 @@ This was part of the certification I obtained for Solidworks: FEA.
 
  In conclusion, we checked out the individual loading components that we are going to apply in the final production analysis.
 
+## My Etsy Page!
+<a href = "https://www.etsy.com/shop/Joeflow3D?ref=seller-platform-mcnav"> Solidworks Model Store</a>
 
 
 ## Licenses & Certifications
