@@ -2,9 +2,8 @@
 
 Hello, I'm Jonathan Flores.
 Welcome to my personal page!
-I'm an incoming 4th year mechanical engineering student
-with a focus on hardware and robotics engineering
-at California State University, Los angeles.
+Im a mechanical engineer with a focus on hardware and robotics engineering
+from California State University, Los angeles.
 This is where I will be uploading some of the projects
 I have been working on. I'm looking forward to growing
 my design and programming skills to build huge meaningful
