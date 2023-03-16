@@ -328,4 +328,4 @@ This was part of the certification I obtained for Solidworks: FEA.
 ### Contact Info
 
 [Linkedin](https://www.linkedin.com/in/johnflores01/) |
-Email: Jflor288@calstatela.edu
+Email: Jonathan.flores.9011@gmail.com
