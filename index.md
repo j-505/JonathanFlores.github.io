@@ -92,21 +92,20 @@ Hardware:
 ### Design
 
 ```markdown
-The solidworks files were taken from thingiverse.
+The solidworks files were pulled from thingiverse.
 The link to the thingiverse CAD files is:
 [5DOF CAD](https://www.thingiverse.com/make:702244)
 
-Some of the parts originally did not mesh well together 
- because of the support filling.
-Removing the support filling from the thin parts also 
- broke some of the pieces.
-I had to print them again and remove the filling.
+I kept the infill at 10% and chose to eliminate the 
+the majority of the support structures because I did
+not want to damage any of the small components when 
+removing the support material.
+
 ```
 ### Programming/Testing
 ```markdown
-I've written code for arduino robots that allowed me to 
- control individual sg90 servo motors and dc motors using
- the H-bridge motor driver. 
+I've written code for a 2 Wheel drive arduino robot that allowed me to 
+ control individual dc motors using the H-bridge motor driver. 
 This was a bit more challenging because the layout changes
  when using ROS. Addressing the arduino and servo motors are
  iterpretted in terms of subscribing and publishing to topics
@@ -114,10 +113,10 @@ This was a bit more challenging because the layout changes
  will basically be subcribing to the 5 servo topics so that when it
  is subscribed to some angle the arduino will write that 
  particular value to the pwm pin of the motors. So if we are
- publishing some value to the ROS topics they will move.
-Modifying the code to have different use cases in the loops
- will allow all the robots servos to move in tandem to provide
- the desired movement.
+ publishing some value to the ROS topics the servos will move.
+Modifying the code to have different switch cases will allow 
+all the robots servos to move in tandem to provide a forward, 
+backward, left & right movement.
 ```
 
 
