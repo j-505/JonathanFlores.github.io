@@ -1,11 +1,10 @@
-# Welcome to Jonathan's Website
+# Welcome to my personal website
 
 <p align="center" >
 <img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Professional-Picture.jpg?raw=true" width="300">
 </p>
 
 Hello, I'm Jonathan Flores.
-Welcome to my personal project page!
 As a mechatronics engineer I have a strong passion for
 designing and building unique hardware. I love to learn
 and apply new concepts and am eager to pursue innovation.
