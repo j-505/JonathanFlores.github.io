@@ -104,19 +104,21 @@ removing the support material.
 ```
 ### Programming/Testing
 ```markdown
-I've written code for a 2 Wheel drive arduino robot that allowed me to 
- control individual dc motors using the H-bridge motor driver. 
-This was a bit more challenging because the layout changes
- when using ROS. Addressing the arduino and servo motors are
- iterpretted in terms of subscribing and publishing to topics
- and nodes. The serial node (ROS node for arduino interfacing)
- will basically be subcribing to the 5 servo topics so that when it
- is subscribed to some angle the arduino will write that 
- particular value to the pwm pin of the motors. So if we are
- publishing some value to the ROS topics the servos will move.
-Modifying the code to have different switch cases will allow 
-all the robots servos to move in tandem to provide a forward, 
-backward, left & right movement.
+I've written code for a 2 Wheel drive arduino robot
+ that allowed me to control individual dc motors using
+ the H-bridge motor driver. 
+This was a bit more challenging because the layout
+ changes when using ROS. Addressing the arduino and
+ servo motors are iterpretted in terms of subscribing
+ and publishing to topics and nodes. The serial
+ node (ROS node for arduino interfacing) will basically
+ be subcribing to the 5 servo topics so that when it
+ is subscribed to some angle the arduino will write
+ that particular value to the pwm pin of the motors.
+ So if we are publishing some value to the ROS topics
+ the servos will move. Modifying the code to have different
+ switch cases will allow all the robots servos to move
+ in tandem to provide a forward, backward, left & right movement.
 ```
 
 
@@ -161,14 +163,9 @@ Hardware:
 
 ### Design
 
-```markdown
-The design for the robot was catered to rapid prototyping.
-The robot was designed using solidworks and I might add the 
-stl files later on if you would like.
 
-I designed the robot so that all the components could sit on
-top of the it and built in some nodes on top of base of the 
-robot so that components wouldn't slide. 
+The robot was designed using solidworks and 3D printed.
+The first configuration of this robotic 
 
 The way it moves is by turning the different servos on each
 leg a certain angle that creates a forward walking gait so that
@@ -177,9 +174,9 @@ of times but finally settled on a design.
 
 The project is a prototype and I will continue working on it.
 
-```
+
 ### Programming/Testing
-```markdown
+
 I wanted to try and implement the code for the robot just like
 I had done for the robot arm since I already had a basic 
 understanding of what each servo motor needed to do. 
@@ -191,12 +188,11 @@ The difference here is that
 This meant that the code would be easier to understand for me and 
 that I needed to create an application on a phone that would 
 move my robot.
-```
+
 <p align="center" >
 <img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/2.png" width="300">  <img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/3.png" width="300">
 </p>
 
-```markdown
 I designed the application on the MIT app inventor website and
 created a button for each movement (Forward, Backward, etc).
 Each button connects to the arduino codes use cases (1,2,3,4,5).
@@ -212,7 +208,7 @@ The Code for this project is on my github.
 
 I am currently working on a better version of this using 12 servo motors
 I'll keep updating this page.
-```
+
 
 
 ## 4. Quadruped Dog Robot
@@ -242,7 +238,7 @@ In Progress...
 
 ### Design
 
-```markdown
+
 I have 3D printed the design for the robot and I've
 noticed that the legs are really heavy. So I will be redesigning the 
 project to take off the weight. The servo's can probably handle the 
@@ -250,7 +246,7 @@ weight but I don't want to risk them overheating and getting damaged.
 They were around $18 each! >.<
 
 I'll update the page once I have everything sorted.
-```
+
 ### Programming/Testing
 
 <p align="center" >
@@ -264,7 +260,7 @@ I'll update the page once I have everything sorted.
 
 </p>
 
-```markdown
+
 I went ahead and attempted to create the urdf for the robot so that
 I can test it in a simulated environment called Rviz. I need to do
 more research so that the meshes and origin positions are correctly 
@@ -277,7 +273,6 @@ I'm finishing up designing the test rig so that I'm able to test the legs moveme
 I plan on creating a bezier curve at the legs end effector.
 
 
-```
 
 
 # Skills
