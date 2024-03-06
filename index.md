@@ -1,7 +1,7 @@
 # Welcome to Jonathan's Website
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/54735464/121645957-a4214800-ca49-11eb-9b8d-0abf2e0ba9c1.jpg" width="300">
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/Webpage/images/Professional-Picture.jpg?raw=true" width="300">
 </p>
 
 Hello, I'm Jonathan Flores.
