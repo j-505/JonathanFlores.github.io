@@ -1,22 +1,23 @@
 # Welcome to Jonathan's Website
 
+<p align="center" >
+<img src="https://user-images.githubusercontent.com/54735464/121645957-a4214800-ca49-11eb-9b8d-0abf2e0ba9c1.jpg" width="300">
+</p>
+
 Hello, I'm Jonathan Flores.
-Welcome to my personal page!
-Im a mechanical engineer with a focus on hardware and robotics engineering
-from California State University, Los angeles.
-This is where I will be uploading some of the projects
-I have been working on. I'm looking forward to growing
-my design and programming skills to build huge meaningful
-projects. 
+Welcome to my personal project page!
+As a mechatronics engineer I have a strong passion for
+designing and building unique hardware. I love to learn
+and apply new concepts and am eager to pursue innovation.
 
 If you have any questions, feel free to contact me.
 My contact information is on the bottom of the page.
 
-I hope you like some of the projects I have below! Enjoy!
+Enjoy!
 
 
 
-# Projects:
+# Personal Projects:
 
 
 ## 1. Gearbox Design Competition (1st Place)
@@ -56,7 +57,7 @@ So here is the <a href="./images/GearboxReport.pdf">downloadable report</a> for 
 The time performances of the gearbox with a gear ratio of 15.2 was higher than 
 determined from the calculations. The team suspected this was caused by an 
 irregularity, where the teeth of the gears did not fully mesh together. 
-Possible reasons arethe calibration of the laser cutting machine and the 
+Possible reasons are the calibration of the laser cutting machine and the 
 number of cutting cycles applied to the acrylic glass that would deform 
 its shape. Overall, the team was satisfied with the final test performance 
 time of 5.66 seconds.
