@@ -273,41 +273,6 @@ I'm finishing up designing the test rig so that I'm able to test the legs moveme
 I plan on creating a bezier curve at the legs end effector.
 
 
-
-
-# Skills
-
-## FEA - Finite Element Analysis
-
-### Conrod Static Analysis
-This was part of the certification I obtained for Solidworks: FEA.
-
-<p align="center" >
-<img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/Titlepic.jpg.png" width="400"> 
-</p>
- 
- This analysis helped me prepare the geometry for a connecting rod that is part of a piston engine which connects the piston to the crankshaft.
-  Once the geometry is established the element type and material properties have to be established. The meshing can be created. The meshing is probably the most important 
-  part of the analysis. Meshing allows us to create a mesh of grid points or "nodes" and the finite element mesh is generated using a tetrahedral
-  mesh type as seen in the image above.
-
-
-<p align = "center">
-<img src="https://user-images.githubusercontent.com/54735464/122262904-bc9ac380-ce8a-11eb-81e3-44f8572e2967.jpg" width="400"> 
-</p>
- The next image above demonstrates a comparison of the different load analysis created. Here, the compressive and tensile loads are compared
-  using the load case manager feature. The inertial load calculations can be seen using the "result force" tab. This will allow us to check 
-  whether or not the reaction forces are equal to the loads applied for both cases.
-  
-
-<p align = "center">
-<img src="https://user-images.githubusercontent.com/54735464/122263073-e2c06380-ce8a-11eb-86b5-0a1dcebc5b17.jpg" width="400"> 
-</p>
- This last image demonstrates how to probe an individual section of the part to check the stress variation running along that section.
- This is important for the conrod static analysis because it helps us identify where the key stresses will be.
-
- In conclusion, we checked out the individual loading components that we are going to apply in the final production analysis.
-
 ## My Etsy Page!
 <a href = "https://www.etsy.com/shop/Joeflow3D?ref=seller-platform-mcnav"> Solidworks Model Store</a>
 
