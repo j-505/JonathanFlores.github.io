@@ -72,14 +72,13 @@ time of 5.66 seconds.
 <img src="https://github.com/j-505/JonathanFlores.github.io/blob/55c2dab73abaec036da25cb590eeca7f83540635/images/5DOF_Red_Arm.jpg" width="200">
 </p>
 
-Hardware:
+Key Hardware:
 <ul>
-<li>x5 - 20kgcm Servo Motor </li>
-<li>x1 - Breadboard</li>
-<li>x1 - Arduino board connector</li>
+<li>x4 - 20kgcm Servo Motor </li>
+<li>x2 - SG90 Servo Motor </li>
+<li>x1 - Benchtop Power Supply</li>
 <li>x1 - Arduino Uno  </li>
-<li>x1 - Jetson Nano  </li>
-<li>x20 - Jumper Cables </li>  
+<li>x1 - Jetson Nano  </li>  
 <li>Access to 3D printer/ Filament </li>    
 </ul>
 
@@ -91,15 +90,9 @@ Hardware:
 
 ### Design
 
-I decided to create my own small robotic arm after looking
-up some really expensive models. I plan on putting this design
-on thingverse once I'm done with the full design.
-
-I kept the infill at 10% and chose to eliminate the 
-the majority of the support structures because I either
-did not need them or I did not want to damage any 
-of the small components when removing the support material.
-
+I did not want to spend my money on purchasing a robotic arm
+from online so I decided to design and built my own. 
+I plan on putting this design on thingverse once I'm done with the full design.
 
 ### Programming/Testing
 
@@ -120,13 +113,13 @@ This was a bit more challenging because the layout
  in tandem to provide a forward, backward, left & right movement.
 
 ## SENIOR DESIGN PROJECT
-It was due to this project that I was able to gain key insights into
-programming a refurbished robotic arm that we used for my 
-senior design project. More information can be found here:
+It was due to my previous project that I was able to gain key insights into
+programming a refurbished robotic arm that we used for my senior design project. 
+More information can be found here:
 <a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
 
 <p align="center" >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/c69590e8750878d185caa990691766b418aeb119/images/SeniorDesignPoster.jpg" width="200">   
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/c69590e8750878d185caa990691766b418aeb119/images/SeniorDesignPoster.jpg" width="100">   
 </p>
 
 
