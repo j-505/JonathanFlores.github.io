@@ -102,8 +102,6 @@ I did not want to spend my money on purchasing a robotic arm
 from online so I decided to design and built my own. 
 I plan on putting this design on thingverse once I'm done with the full design.
 
- Thus I
-
 ### Programming/Testing
 The main programming will be written onto a arduino microcontroller. 
  We will also be using the Jetson Nano to speak to the arduino microcontroller. 
