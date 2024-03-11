@@ -142,14 +142,12 @@ Boston Dynamics spot robot.
 
 Hardware:
 <ul>
-<li>x5 - SG90 Servo motor (and attachments)</li>
-<li>x25 - Jumper Cables</li>
+<li>x5 - SG90 Servo motor</li>
 <li>x1 - Arduino Uno</li>
 <li>x1 - L298N Motor Driver</li>
 <li>x1 - 9V Battery</li>
 <li>x1 - Breadboard</li>
 <li>Access to 3D printer/ Filament  </li>
-<li> Acess to Computer</li>
 </ul>
 
 ### Objectives
@@ -160,32 +158,14 @@ Hardware:
 
 ### Design
 
-
-The robot was designed using solidworks and 3D printed on
-a anycubic viper 3D printer.
-The first configuration of this robotic 
-
-The way it moves is by turning the different servos on each
-leg a certain angle that creates a forward walking gait so that
-the robot can move. I had to redesign some of the legs a couple
-of times but finally settled on a design.
-
-The project is a prototype and I will continue working on it.
-
+The robot was designed using solidworks and 3D printed on a anycubic viper 3D printer.
+This design was quickly put together because I honestly did not have enough time left and I needed to figure out how to go about to programming the actual robotic joints to move with my phone. One important thing that stood out on this robot was
+how important it is to add a material that allows the end effector to grip the surface just enough
+to the ground so that it provides enough force in the correct direction.
 
 ### Programming/Testing
-
-I wanted to try and implement the code for the robot just like
-I had done for the robot arm since I already had a basic 
-understanding of what each servo motor needed to do. 
-
-The difference here is that 
-1. This robot was not controlled using ROS
-2. I wanted the quadruped robot to be controlled using a phone. 
-
-This meant that the code would be easier to understand for me and 
-that I needed to create an application on a phone that would 
-move my robot.
+The way this robot moves is by sending direction commands from a phone application via bluetooth module to the arduino microcontroller. The microcontroller then sends angle commands to the servos on each
+leg. This creates a walking gait in the direction needed so thatthe robot can move.
 
 <p align="center" >
 <img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/2.png" width="300">  <img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/3.png" width="300">
@@ -206,7 +186,6 @@ The Code for this project is on my github.
 
 I am currently working on a better version of this using 12 servo motors
 I'll keep updating this page.
-
 
 
 ## 4. Quadruped Dog Robot
