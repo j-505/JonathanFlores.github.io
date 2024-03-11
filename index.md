@@ -163,34 +163,28 @@ Hardware:
 ### Design
 
 The robot was designed using solidworks and 3D printed on a anycubic viper 3D printer.
-This design was quickly put together because I honestly did not have enough time left and I needed to figure out how to go about to programming the actual robotic joints to move with my phone. One important thing that stood out on this robot was
+This design was quickly put together because I honestly did not have enough time left and I needed to figure out how to go about  programming the actual robotic joints to move with my phone. One important thing that stood out on this robot was
 how important it is to add a material that allows the end effector to grip the surface just enough
 to the ground so that it provides enough force in the correct direction.
 
 ### Programming/Testing
-The way this robot moves is by sending direction commands from a phone application via bluetooth module to the arduino microcontroller. The microcontroller then sends angle commands to the servos on each
-leg. This creates a walking gait in the direction needed so thatthe robot can move.
+The way this robot moves is by sending direction commands from a phone application via bluetooth module to the arduino microcontroller. The microcontroller then sends angle commands to the servos on each leg. This creates a walking gait in the direction needed so thatthe robot can move.
 
 <p align="center" >
 <img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/2.png" width="300">  <img src="https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/3.png" width="300">
 </p>
 
-I designed the application on the MIT app inventor website and
-created a button for each movement (Forward, Backward, etc).
+I designed the mobile application on the MIT app inventor website and created a button for each movement (Forward, Backward, etc).
 Each button connects to the arduino codes use cases (1,2,3,4,5).
 This is what distinguishes the different movements in the robot.
 The important thing here is to add a bluetoothclient to the application
 so that you're able to locate your robots bluetooth module on your phone.
-Testing the robot was really fun because I was able to make the quadruped
-robot gallop. One thing I would fix on this design is to add some 
-rubber to the legs so that it has more friction allowing it to
-grasp the floor and move better.
+When testing the code on the robot there is some latency but the overall movement in any given direction is shown.
 
 The Code for this project is on my github.
 
 I am currently working on a better version of this using 12 servo motors
 I'll keep updating this page.
-
 
 ## 4. Quadruped Dog Robot
 
