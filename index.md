@@ -253,11 +253,9 @@ More information can be found here:
 <a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
 
 <p align="center" >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/c69590e8750878d185caa990691766b418aeb119/images/SeniorDesignPoster.jpg" width="100">   
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/6ecb72edda1254fa92be409b741069750951c6a5/images/COMPARE.jpg" width="100">   
 </p>
 
-
-![Uploading SeniorDesignPoster.jpg…]()
 
 
 ## My Etsy Page!
