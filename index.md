@@ -14,7 +14,7 @@ My contact information is on the bottom of the page.
 
 Enjoy!
 
-<img src="![5DOF_Red_Arm](https://github.com/j-505/JonathanFlores.github.io/assets/54735464/4be8819f-1f59-47a7-8206-6d2d18ead9b5)" width="300">
+<img src="(https://github.com/j-505/JonathanFlores.github.io/assets/54735464/4be8819f-1f59-47a7-8206-6d2d18ead9b5)" width="300">
 
 # Personal Projects:
 
