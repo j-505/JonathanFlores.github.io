@@ -260,10 +260,6 @@ Testing
 I'm finishing up designing the test rig so that I'm able to test the legs movement.
 I plan on creating a bezier curve at the legs end effector.
 
-## My Etsy Page!
-<a href = "https://www.etsy.com/shop/Joeflow3D?ref=seller-platform-mcnav"> Solidworks Model Store</a>
-
-
 ## SENIOR DESIGN PROJECT
 It was due to my previous project that I was able to gain key insights into
 programming a refurbished robotic arm that we used for my senior design project. 
@@ -274,6 +270,10 @@ More information can be found here:
 <img src="https://github.com/j-505/JonathanFlores.github.io/blob/c69590e8750878d185caa990691766b418aeb119/images/SeniorDesignPoster.jpg" width="100">   
 </p>
 
+
+
+## My Etsy Page!
+<a href = "https://www.etsy.com/shop/Joeflow3D?ref=seller-platform-mcnav"> Solidworks Model Store</a>
 
 ### Contact Info
 
