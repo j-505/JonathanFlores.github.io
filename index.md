@@ -14,6 +14,7 @@ My contact information is on the bottom of the page.
 
 Enjoy!
 
+![5DOF_Red_Arm](https://github.com/j-505/JonathanFlores.github.io/assets/54735464/4be8819f-1f59-47a7-8206-6d2d18ead9b5)
 
 
 # Personal Projects:
@@ -191,22 +192,17 @@ I'll keep updating this page.
 ## 4. Quadruped Dog Robot
 
 <p align="center" >
-<img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="400"> 
+<img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="200"> 
 </p>
 
-This project is still in progress and I will be sharing 
-different iterations of the designs, simulations and code.
+This project is still in progress and I will be sharing different iterations of the designs, simulations and code.
 
 Hardware:
-(P.S.A: This is not all the components needed!)
 <ul>
 <li>x12 - 20KGcm Digital Servo (And attachments)</li>
 <li>x1 - Breadboard</li>
-<li>x1 - Arduino board connector</li>
 <li>x1 - Arduino Uno  </li>
-<li>? - Jumper Cables </li>  
 <li>Access to 3D printer/ Filament </li>    
-<li>Acess to Computer</li>
 </ul>
 
 ### Objectives
@@ -232,7 +228,8 @@ I'll update the page once I have everything sorted.
 
 
 <p align = "center">
-  <img src="https://user-images.githubusercontent.com/54735464/122987660-b064a980-d355-11eb-9ae5-6acf61064735.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/54735464/122987660-b064a98![SeniorDesignPoster](https://github.com/j-505/JonathanFlores.github.io/assets/54735464/b27a65d9-570d-4d0e-b9a3-b65ced1bc148)
+0-d355-11eb-9ae5-6acf61064735.png" width="200" />
   <img src="https://user-images.githubusercontent.com/54735464/122987714-c1adb600-d355-11eb-8577-d53a93b96b55.jpg" width="160" /> 
 
 </p>
@@ -259,6 +256,8 @@ More information can be found here:
 <img src="https://github.com/j-505/JonathanFlores.github.io/blob/c69590e8750878d185caa990691766b418aeb119/images/SeniorDesignPoster.jpg" width="100">   
 </p>
 
+
+![Uploading SeniorDesignPoster.jpg…]()
 
 
 ## My Etsy Page!
