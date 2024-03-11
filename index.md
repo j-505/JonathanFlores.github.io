@@ -191,36 +191,28 @@ More information can be found here:
 My tasks were to troubleshoot the robotic arm to see what parts we would need to procure. I was also in charge of redesigning the arm on solidworks so that we could have a representation of it. We would ultimately use this model to generate a URDF model that we could import onto the Jetson TX2. Finally I wrote the Arduino code used to control all 6 DC motors. This was controlled the exact same way as the previous project I showed. The different here is that we're using DC motors with encoders instead of servo motors. This meant that PID's would need to be implemented to accurately control the position of the robotic arm. Gear ratio's would also need to be taken into account for the base and translate that into the amount of encoder ticks for accurate position. One key component that we did not have time to implement was adding limit switches and boundary boxes onto RVIZ that prevent the arm from surpassing its own ROM.
 
 
-Quadruped Dog Robot
-
-<p align="center" >
-<img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="200"> 
-</p>
+### Quadruped Dog Robot
 
 This project is still in progress and I will be sharing different iterations of the designs, simulations and code.
 
-Hardware:
-<ul>
-<li>x12 - 20KGcm Digital Servo (And attachments)</li>
-<li>x1 - Breadboard</li>
-<li>x1 - Arduino Uno  </li>
-<li>Access to 3D printer/ Filament </li>    
-</ul>
-
 ### Objectives
 
-In Progress...
+1. Design functional robotic leg
 
 ### Design
 
+The following image is the second iteration of this robotic quadruped that I designed. I quickly realized that it would be too heavy to actually move after 3D printing one of the legs. 
+<p align="center" >
+<img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="200"> 
+</p>
+The following is the newest iteration of the quadruped leg. This design is much lighter than the previous leg design.
 
-I have 3D printed the design for the robot and I've
-noticed that the legs are really heavy. So I will be redesigning the 
-project to take off the weight. The servo's can probably handle the 
-weight but I don't want to risk them overheating and getting damaged.
-They were around $18 each! >.<
+<img width="300" alt="Quadruped leg v3" src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/531fd59c-e578-4229-b4de-388a00901385">
+<div style="text-align: center;">
+  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/531fd59c-e578-4229-b4de-388a00901385" alt="Quadruped leg v3" width="250" height="300">
+</div>
 
-I'll update the page once I have everything sorted.
+
 
 ### Programming/Testing
 
