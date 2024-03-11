@@ -112,17 +112,6 @@ This was a bit more challenging because the layout
  switch cases will allow all the robotic servos to move
  in tandem to provide a forward, backward, left & right movement.
 
-## SENIOR DESIGN PROJECT
-It was due to my previous project that I was able to gain key insights into
-programming a refurbished robotic arm that we used for my senior design project. 
-More information can be found here:
-<a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
-
-<p align="center" >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/c69590e8750878d185caa990691766b418aeb119/images/SeniorDesignPoster.jpg" width="100">   
-</p>
-
-
 
 
 ## 3. Quadruped Robot
@@ -140,7 +129,6 @@ I had some prior knowledge before this project that involved
 controlling a servo motor arm using ROS and decided that it 
 would be pretty neat if I could create a robotic dog like the
 Boston Dynamics spot robot.
-
 
 Hardware:
 <ul>
@@ -272,18 +260,20 @@ Testing
 I'm finishing up designing the test rig so that I'm able to test the legs movement.
 I plan on creating a bezier curve at the legs end effector.
 
-
 ## My Etsy Page!
 <a href = "https://www.etsy.com/shop/Joeflow3D?ref=seller-platform-mcnav"> Solidworks Model Store</a>
 
 
-## Licenses & Certifications
-<ul>
-<li><a href="./images/CertificateOfCompletion_Learning C.pdf">Certificate: Learning C++</a></li>
- <li> <a href="./images/CertificateOfCompletion_SOLIDWORKS Simulation for Finite Element Analysis.pdf">Certificate: SOLIDWORKS: Simulation for Finite Element Analysis</a></li>
-<li> <a href="./images/CertificateOfCompletion_Introduction to Mill and Lathe Operation(1).pdf">Certificate: Introduction to Mill and Lathe Operation</a></li>
-<li> <a href="./images/CertificateOfCompletion_Introduction to Geometric Dimensioning and Tolerancing.pdf">Certificate: Introduction to Geometric Dimensioning and Tolerancing</a></li>
-</ul>
+## SENIOR DESIGN PROJECT
+It was due to my previous project that I was able to gain key insights into
+programming a refurbished robotic arm that we used for my senior design project. 
+More information can be found here:
+<a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
+
+<p align="center" >
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/c69590e8750878d185caa990691766b418aeb119/images/SeniorDesignPoster.jpg" width="100">   
+</p>
+
 
 ### Contact Info
 
