@@ -186,7 +186,20 @@ The Code for this project is on my github.
 I am currently working on a better version of this using 12 servo motors
 I'll keep updating this page.
 
-## 4. Quadruped Dog Robot
+## 4. SENIOR DESIGN PROJECT - Refurbishing 6DOF Robotic Arm
+<div style="text-align: center;">
+  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/a6dd2956-8c39-46ea-8cd9-8f077709f219" alt="Rover 2" width="200" height="200">
+</div>
+It was due to my previous robotic arm project that I was able to gain key insights into
+programming a 6DOF refurbished robotic arm that we used for my senior design project. 
+More information can be found here:
+<a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
+
+
+
+
+
+Quadruped Dog Robot
 
 <p align="center" >
 <img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="200"> 
@@ -243,15 +256,6 @@ Testing
 I'm finishing up designing the test rig so that I'm able to test the legs movement.
 I plan on creating a bezier curve at the legs end effector.
 
-## SENIOR DESIGN PROJECT
-It was due to my previous project that I was able to gain key insights into
-programming a refurbished robotic arm that we used for my senior design project. 
-More information can be found here:
-<a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
-
-<p align="center" >
-<img src="https://github.com/j-505/JonathanFlores.github.io/blob/6ecb72edda1254fa92be409b741069750951c6a5/images/COMPARE.jpg" width="100">   
-</p>
 
 
 
