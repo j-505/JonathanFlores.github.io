@@ -103,11 +103,11 @@ of the small components when removing the support material.
 
 ### Programming/Testing
 
-I've written code for a 2 Wheel drive arduino robot
+I've written arduino code for a 2 Wheel drive arduino robot
  that allowed me to control individual dc motors using
  the H-bridge motor driver. 
 This was a bit more challenging because the layout
- changes when using ROS. Addressing the arduino and
+ changes when using Servo motors and ROS. Addressing the arduino and
  servo motors are iterpretted in terms of subscribing
  and publishing to topics and nodes. The serial
  node (ROS node for arduino interfacing) will basically
@@ -170,7 +170,8 @@ Hardware:
 ### Design
 
 
-The robot was designed using solidworks and 3D printed.
+The robot was designed using solidworks and 3D printed on
+a anycubic viper 3D printer.
 The first configuration of this robotic 
 
 The way it moves is by turning the different servos on each
