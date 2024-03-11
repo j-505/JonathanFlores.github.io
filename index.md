@@ -222,7 +222,7 @@ more research so that the coordinate axis and origin positions are correctly imp
 The following images are the testing setups for the quadruped leg design of both version 2 (Left image) & 3 (Right image). I am currently still working on testing v3. 
 <p align = "center">
   <img src="https://user-images.githubusercontent.com/54735464/122987714-c1adb600-d355-11eb-8577-d53a93b96b55.jpg" width="160" />  
-  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/7812cd09-e7de-4b07-80b5-7515e3d661da" width="160" /> 
+  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/7812cd09-e7de-4b07-80b5-7515e3d661da" width="148" /> 
 </p>
 
 ## My Etsy Page!
