@@ -105,6 +105,12 @@ I plan on putting this design on thingverse once I'm done with the full design.
  Thus I
 
 ### Programming/Testing
+The main programming will be written onto a arduino microcontroller. 
+ We will also be using the Jetson Nano to speak to the arduino microcontroller. 
+ The Jetson nano runs on Linux. We are using it because Linux will
+ allow us to install ROS and ultimately MoveIt! which will allow us to 
+ control the robotic arm using inverse kinematic solvers. ROS also has
+ existing packages that I will be using in the future for object detection.
 
 I've written arduino code for a 2 Wheel drive arduino robot
  that allowed me to control individual dc motors using
