@@ -191,28 +191,31 @@ More information can be found here:
 My tasks were to troubleshoot the robotic arm to see what parts we would need to procure. I was also in charge of redesigning the arm on solidworks so that we could have a representation of it. We would ultimately use this model to generate a URDF model that we could import onto the Jetson TX2. Finally I wrote the Arduino code used to control all 6 DC motors. This was controlled the exact same way as the previous project I showed. The different here is that we're using DC motors with encoders instead of servo motors. This meant that PID's would need to be implemented to accurately control the position of the robotic arm. Gear ratio's would also need to be taken into account for the base and translate that into the amount of encoder ticks for accurate position. One key component that we did not have time to implement was adding limit switches and boundary boxes onto RVIZ that prevent the arm from surpassing its own ROM.
 
 
-### 5. Quadruped Robot
+## 5. Quadruped Robot
 
 This project is still in progress and I will be sharing different iterations of the designs, simulations and code.
 
 ### Objectives
 
-1. Design functional robotic leg
+1. Design lightweight and functional robotic leg
 
 ### Design
 
-The following image is the second iteration of this robotic quadruped that I designed. I quickly realized that it would be too heavy to actually move after 3D printing one of the legs. 
+The following image is the second iteration of this robotic quadruped that I designed. The design of the leg is basically the same for all the 
+
 <p align="center" >
 <img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="250"> 
 </p>
-The following is the newest iteration of the quadruped leg. This design is much lighter than the previous leg design.
+The following is the latest iteration of the quadruped leg. This design is much lighter than the previous leg design.
+![20240311_084134](https://github.com/j-505/JonathanFlores.github.io/assets/54735464/c084e9f5-3750-4301-b4d6-d5bb2a196bda)
 
 <div style="text-align: center;">
   <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/531fd59c-e578-4229-b4de-388a00901385" alt="Quadruped leg v3" width="150" height="200">
 </div>
 
 ### Programming/Testing
-
+I went ahead and attempted to create the URDF for the robot so that I could test it in a simulated environment called Rviz. I need to do
+more research so that the coordinate axis and origin positions are correctly imported onto Rviz. The issue is likely that I am not seperating different links into their own assemblies. This allows things that are supposed to rotate to rotate. 
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/54735464/121630450-079f7b80-ca32-11eb-8644-c9f932d7f805.png" width="400"> 
 </p>
@@ -226,10 +229,6 @@ The following is the newest iteration of the quadruped leg. This design is much 
 </p>
 
 
-I went ahead and attempted to create the urdf for the robot so that
-I can test it in a simulated environment called Rviz. I need to do
-more research so that the meshes and origin positions are correctly 
-imported onto Rviz.
 
 
 Testing
