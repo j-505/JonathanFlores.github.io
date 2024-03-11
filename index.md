@@ -74,32 +74,31 @@ time of 5.66 seconds.
 
 Hardware:
 <ul>
-<li>x5 - MG90 Servo Motor (And attachments)</li>
+<li>x5 - 20kgcm Servo Motor </li>
 <li>x1 - Breadboard</li>
 <li>x1 - Arduino board connector</li>
 <li>x1 - Arduino Uno  </li>
+<li>x1 - Jetson Nano  </li>
 <li>x20 - Jumper Cables </li>  
 <li>Access to 3D printer/ Filament </li>    
-<li>Acess to Computer</li>
 </ul>
 
 ### Objectives
-1. Get CAD design files for 5DOF robot.
+1. Design files for 5DOF robot using Solidworks.
 2. 3D print and Assemble Parts.
-3. Download ROS melodic on Linux VM.
+3. Flash and install ROS/Moveit plugin on Jetson Nano.
 4. Create and upload Arduino sketch to Robot.
 
 ### Design
 
-
-The solidworks files were pulled from thingiverse.
-The link to the thingiverse CAD files is:
-[5DOF CAD](https://www.thingiverse.com/make:702244)
+I decided to create my own small robotic arm after looking
+up some really expensive models. I plan on putting this design
+on thingverse once I'm done with the full design.
 
 I kept the infill at 10% and chose to eliminate the 
-the majority of the support structures because I did
-not want to damage any of the small components when 
-removing the support material.
+the majority of the support structures because I either
+did not need them or I did not want to damage any 
+of the small components when removing the support material.
 
 
 ### Programming/Testing
@@ -120,8 +119,15 @@ This was a bit more challenging because the layout
  switch cases will allow all the robots servos to move
  in tandem to provide a forward, backward, left & right movement.
 
+## SENIOR DESIGN PROJECT
+It was due to this project that I was able to gain key insights into
+programming a refurbished robotic arm that we used for my 
+senior design project. More information can be found here:
+<a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
 
-
+<p align="center" >
+<img src="https://user-images.githubusercontent.com/54735464/121494705-d40b1580-c98d-11eb-98b2-e2fa5395a0e8.jpg" width="200">   width="200">
+</p>
 
 
 
