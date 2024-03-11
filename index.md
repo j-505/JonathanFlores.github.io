@@ -77,6 +77,7 @@ could design and learn how to program one. I soon went down a
 rabbit hole and wanted to program one to move and pickup an object
 using object detection! In this example I will only be showing how I
 went about designing and controlling the robotic arm without Computer vision.
+Adding the object detection is one of the main goals I am currently trying to achieve. 
 </p>
 
 Key Hardware:
