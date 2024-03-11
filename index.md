@@ -61,10 +61,6 @@ number of cutting cycles applied to the acrylic glass that would deform
 its shape. Overall, the team was satisfied with the final test performance 
 time of 5.66 seconds.
 
-
-
-
-
 ## 2. Five Degree of Freedom Robot Arm (ROS)
 
 <div style="text-align: center;">
@@ -193,6 +189,8 @@ I'll keep updating this page.
 This robotic arm had essentially been sitting inside my professors lab and instead of designiing one he wanted us to get this arm up and running and incorporate it into our "University Mars Rover Competition" senior design project. There was a lot of troubleshooting done on the DC motors, Belts and harness that we needed to do so a large portion of the project was dedicated to this and procurement of parts. We were able to eventually get it working. 
 More information can be found here:
 <a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
+
+My tasks were to troubleshoot the robotic arm to see what parts we would need to procure. I was also in charge of redesigning the arm on solidworks so that we could have a representation of it. We would ultimately use this model to generate a URDF model that we could import onto the Jetson TX2. Finally I wrote the Arduino code used to control all 6 DC motors. This was controlled the exact same way as the previous project I showed. The different here is that we're using DC motors with encoders instead of servo motors. This meant that PID's would need to be implemented to accurately control the position of the robotic arm. Gear ratio's would also need to be taken into account for the base and translate that into the amount of encoder ticks for accurate position. One key component that we did not have time to implement was adding limit switches and boundary boxes onto RVIZ that prevent the arm from surpassing its own ROM.
 
 
 Quadruped Dog Robot
