@@ -201,13 +201,12 @@ This project is still in progress and I will be sharing different iterations of 
 
 ### Design
 
-The following image is the second iteration of this robotic quadruped that I designed. The design of the leg is basically the same for all the 
+The following image is the second iteration of this robotic quadruped that I designed. T
 
 <p align="center" >
 <img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="250"> 
 </p>
 The following is the latest iteration of the quadruped leg. This design is much lighter than the previous leg design.
-![20240311_084134](https://github.com/j-505/JonathanFlores.github.io/assets/54735464/c084e9f5-3750-4301-b4d6-d5bb2a196bda)
 
 <div style="text-align: center;">
   <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/531fd59c-e578-4229-b4de-388a00901385" alt="Quadruped leg v3" width="150" height="200">
@@ -220,12 +219,10 @@ more research so that the coordinate axis and origin positions are correctly imp
 <img src="https://user-images.githubusercontent.com/54735464/121630450-079f7b80-ca32-11eb-8644-c9f932d7f805.png" width="400"> 
 </p>
 
-The following images are the testing setups for the quadruped leg design of both version 2 & 3. I am currently still working on testing v3. 
+The following images are the testing setups for the quadruped leg design of both version 2 (Left image) & 3 (Right image). I am currently still working on testing v3. 
 <p align = "center">
-  <img src="https://user-images.githubusercontent.com/54735464/122987714-c1adb600-d355-11eb-8577-d53a93b96b55.jpg" width="160" /> 
-</p>
-<p align = "center">
-  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/7812cd09-e7de-4b07-80b5-7515e3d661da" width="160" /> 
+  <img src="https://user-images.githubusercontent.com/54735464/122987714-c1adb600-d355-11eb-8577-d53a93b96b55.jpg" width="160"  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/7812cd09-e7de-4b07-80b5-7515e3d661da" width="160" /> 
+/> 
 </p>
 
 ## My Etsy Page!
