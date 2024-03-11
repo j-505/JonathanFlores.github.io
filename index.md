@@ -195,6 +195,8 @@ My tasks were to troubleshoot the robotic arm to see what parts we would need to
 
 This project is still in progress and I will be sharing different iterations of the designs, simulations and code.
 
+The goal for this project was to design a quadruped robot similar to the Spot robot Boston Dynamics designed. Ultimately the quadruped robot will use computer vision to navigate its environment.
+
 ### Objectives
 
 1. Design lightweight and functional robotic leg
