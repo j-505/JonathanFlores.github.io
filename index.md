@@ -201,7 +201,7 @@ This project is still in progress and I will be sharing different iterations of 
 
 ### Design
 
-The following image is the second iteration of this robotic quadruped that I designed. T
+The following image is the second iteration of this robotic quadruped that I designed.
 
 <p align="center" >
 <img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="250"> 
@@ -224,6 +224,8 @@ The following images are the testing setups for the quadruped leg design of both
   <img src="https://user-images.githubusercontent.com/54735464/122987714-c1adb600-d355-11eb-8577-d53a93b96b55.jpg" width="160" />  
   <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/7812cd09-e7de-4b07-80b5-7515e3d661da" width="148" /> 
 </p>
+
+MORE TO COME ON THIS PROJECT.
 
 ## My Etsy Page!
 <a href = "https://www.etsy.com/shop/Joeflow3D?ref=seller-platform-mcnav"> Solidworks Model Store</a>
