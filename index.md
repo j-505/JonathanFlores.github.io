@@ -207,12 +207,9 @@ The following image is the second iteration of this robotic quadruped that I des
 </p>
 The following is the newest iteration of the quadruped leg. This design is much lighter than the previous leg design.
 
-<img width="300" alt="Quadruped leg v3" src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/531fd59c-e578-4229-b4de-388a00901385">
 <div style="text-align: center;">
   <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/531fd59c-e578-4229-b4de-388a00901385" alt="Quadruped leg v3" width="250" height="300">
 </div>
-
-
 
 ### Programming/Testing
 
