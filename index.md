@@ -115,7 +115,7 @@ I've written arduino code for a 2 Wheel drive arduino robot
  the H-bridge motor driver. 
 This was a bit more challenging because the layout
  changes when using Servo motors and ROS. Addressing the arduino and
- servo motors are iterpretted in terms of subscribing
+ servo motors are interpreted in terms of subscribing
  and publishing to topics and nodes. The serial
  node (ROS node for arduino interfacing) will basically
  be subcribing to the 5 servo topics so that when it
