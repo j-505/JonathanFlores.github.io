@@ -190,8 +190,7 @@ I'll keep updating this page.
 <div style="text-align: center;">
   <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/0e46356c-40b9-4adb-9492-bd8441a0fe70" alt="20210910_144129" width="250" height="300">
 </div>
-It was due to my previous robotic arm project that I was able to gain key insights into
-programming a 6DOF refurbished robotic arm that we used for my senior design project. 
+This robotic arm had essentially been sitting inside my professors lab and instead of designiing one he wanted us to get this arm up and running and incorporate it into our "University Mars Rover Competition" senior design project. There was a lot of troubleshooting done on the DC motors, Belts and harness that we needed to do so a large portion of the project was dedicated to this and procurement of parts. We were able to eventually get it working. 
 More information can be found here:
 <a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
 
