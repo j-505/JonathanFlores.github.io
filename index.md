@@ -116,7 +116,7 @@ This was a bit more challenging because the layout
  that particular value to the pwm pin of the motors.
  So if we are publishing some value to the ROS topics
  the servos will move. Modifying the code to have different
- switch cases will allow all the robots servos to move
+ switch cases will allow all the robotic servos to move
  in tandem to provide a forward, backward, left & right movement.
 
 ## SENIOR DESIGN PROJECT
@@ -126,7 +126,7 @@ senior design project. More information can be found here:
 <a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/54735464/121494705-d40b1580-c98d-11eb-98b2-e2fa5395a0e8.jpg" width="200">   width="200">
+<img src="https://github.com/j-505/JonathanFlores.github.io/blob/c69590e8750878d185caa990691766b418aeb119/images/SeniorDesignPoster.jpg" width="200">   
 </p>
 
 
