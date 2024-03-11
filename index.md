@@ -71,6 +71,13 @@ time of 5.66 seconds.
 <p align="center" >
 <img src="https://github.com/j-505/JonathanFlores.github.io/blob/55c2dab73abaec036da25cb590eeca7f83540635/images/5DOF_Red_Arm.jpg" width="200">
 </p>
+<p align="center" >
+The objective of this robotic arm was initially just to see if I
+could design and learn how to program one. I soon went down a
+rabbit hole and wanted to program one to move and pickup an object
+using object detection! In this example I will only be showing how I
+went about designing and controlling the robotic arm without Computer vision.
+</p>
 
 Key Hardware:
 <ul>
@@ -93,6 +100,8 @@ Key Hardware:
 I did not want to spend my money on purchasing a robotic arm
 from online so I decided to design and built my own. 
 I plan on putting this design on thingverse once I'm done with the full design.
+
+ Thus I
 
 ### Programming/Testing
 
