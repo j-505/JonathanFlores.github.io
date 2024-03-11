@@ -67,7 +67,9 @@ time of 5.66 seconds.
 
 ## 2. Five Degree of Freedom Robot Arm (ROS)
 
- ![5DOF_Red_Arm (1)](https://github.com/j-505/JonathanFlores.github.io/assets/54735464/4f032af3-840b-4434-ac50-6a2fa72476ed)
+<div style="text-align: center;">
+  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/4f032af3-840b-4434-ac50-6a2fa72476ed" alt="5DOF_Red_Arm (1)" width="300" height="auto">
+</div>
 
 <p align="center" >
 The objective of this robotic arm was initially just to see if I
