@@ -188,15 +188,12 @@ I'll keep updating this page.
 
 ## 4. SENIOR DESIGN PROJECT - Refurbishing 6DOF Robotic Arm
 <div style="text-align: center;">
-  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/a6dd2956-8c39-46ea-8cd9-8f077709f219" alt="Rover 2" width="200" height="200">
+  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/0e46356c-40b9-4adb-9492-bd8441a0fe70" alt="20210910_144129" width="250" height="300">
 </div>
 It was due to my previous robotic arm project that I was able to gain key insights into
 programming a 6DOF refurbished robotic arm that we used for my senior design project. 
 More information can be found here:
 <a href = "https://github.com/ASME-ground-robot/2021-22"> Senior Design Project </a>
-
-
-
 
 
 Quadruped Dog Robot
