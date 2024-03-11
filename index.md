@@ -191,7 +191,7 @@ More information can be found here:
 My tasks were to troubleshoot the robotic arm to see what parts we would need to procure. I was also in charge of redesigning the arm on solidworks so that we could have a representation of it. We would ultimately use this model to generate a URDF model that we could import onto the Jetson TX2. Finally I wrote the Arduino code used to control all 6 DC motors. This was controlled the exact same way as the previous project I showed. The different here is that we're using DC motors with encoders instead of servo motors. This meant that PID's would need to be implemented to accurately control the position of the robotic arm. Gear ratio's would also need to be taken into account for the base and translate that into the amount of encoder ticks for accurate position. One key component that we did not have time to implement was adding limit switches and boundary boxes onto RVIZ that prevent the arm from surpassing its own ROM.
 
 
-## 5. Quadruped Robot
+## 5. Quadruped Robot (In progress)
 
 This project is still in progress and I will be sharing different iterations of the designs, simulations and code.
 
@@ -215,29 +215,18 @@ The following is the latest iteration of the quadruped leg. This design is much 
 
 ### Programming/Testing
 I went ahead and attempted to create the URDF for the robot so that I could test it in a simulated environment called Rviz. I need to do
-more research so that the coordinate axis and origin positions are correctly imported onto Rviz. The issue is likely that I am not seperating different links into their own assemblies. This allows things that are supposed to rotate to rotate. 
+more research so that the coordinate axis and origin positions are correctly imported onto Rviz. It is likey that Moveit/Rviz can only simulate the arms moving and not physically movign the entire robot. There is another program called Pybullet that researchers are currently using to move their quadruped robots and I might have to switch over to this simulation software. More to come! 
 <p align="center" >
 <img src="https://user-images.githubusercontent.com/54735464/121630450-079f7b80-ca32-11eb-8644-c9f932d7f805.png" width="400"> 
 </p>
 
-
+The following images are the testing setups for the quadruped leg design of both version 2 & 3. I am currently still working on testing v3. 
 <p align = "center">
-  <img src="https://user-images.githubusercontent.com/54735464/122987660-b064a98![SeniorDesignPoster](https://github.com/j-505/JonathanFlores.github.io/assets/54735464/b27a65d9-570d-4d0e-b9a3-b65ced1bc148)
-0-d355-11eb-9ae5-6acf61064735.png" width="200" />
   <img src="https://user-images.githubusercontent.com/54735464/122987714-c1adb600-d355-11eb-8577-d53a93b96b55.jpg" width="160" /> 
-
 </p>
-
-
-
-
-Testing
-
-I'm finishing up designing the test rig so that I'm able to test the legs movement.
-I plan on creating a bezier curve at the legs end effector.
-
-
-
+<p align = "center">
+  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/7812cd09-e7de-4b07-80b5-7515e3d661da" width="160" /> 
+</p>
 
 ## My Etsy Page!
 <a href = "https://www.etsy.com/shop/Joeflow3D?ref=seller-platform-mcnav"> Solidworks Model Store</a>
