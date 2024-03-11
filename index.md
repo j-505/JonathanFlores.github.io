@@ -203,12 +203,12 @@ This project is still in progress and I will be sharing different iterations of 
 
 The following image is the second iteration of this robotic quadruped that I designed. I quickly realized that it would be too heavy to actually move after 3D printing one of the legs. 
 <p align="center" >
-<img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="200"> 
+<img src= "https://raw.githubusercontent.com/j-505/JonathanFlores.github.io/Webpage/images/RobotDog.jpg" width="250"> 
 </p>
 The following is the newest iteration of the quadruped leg. This design is much lighter than the previous leg design.
 
 <div style="text-align: center;">
-  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/531fd59c-e578-4229-b4de-388a00901385" alt="Quadruped leg v3" width="250" height="300">
+  <img src="https://github.com/j-505/JonathanFlores.github.io/assets/54735464/531fd59c-e578-4229-b4de-388a00901385" alt="Quadruped leg v3" width="150" height="200">
 </div>
 
 ### Programming/Testing
