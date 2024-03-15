@@ -116,9 +116,7 @@ This was a bit more challenging because the layout
  is subscribed to some angle the arduino will write
  that particular value to the pwm pin of the motors.
  So if we are publishing some value to the ROS topics
- the servos will move. Modifying the code to have different
- switch cases will allow all the robotic servos to move
- in tandem to provide a forward, backward, left & right movement.
+ the servos will move.
 
 
 
