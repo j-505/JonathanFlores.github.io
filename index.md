@@ -227,9 +227,6 @@ The following images are the testing setups for the quadruped leg design of both
 
 MORE TO COME ON THIS PROJECT.
 
-## My Etsy Page!
-<a href = "https://www.etsy.com/shop/Joeflow3D?ref=seller-platform-mcnav"> Solidworks Model Store</a>
-
 ### Contact Info
 
 [Linkedin](https://www.linkedin.com/in/johnflores01/) |
